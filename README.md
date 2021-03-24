@@ -1,4 +1,4 @@
-# `MarkDown Language`
+# `MarkDown Language`   
 
 
 마크다운(이하 md) 언어는 마크업언어의 반대 개념이다.
@@ -6,9 +6,8 @@
 ---
 
 ## Header Text (타이틀)
-<br>
-타이틀을 입력할 때는 `#`을 사용합니다.
-개수에 따라서 `html`의 `<hn>`으로 동작합니다.
+
+타이틀을 입력할 때는 `#`을 사용합니다. `#`의 개수에 따라 `html`의 `hn` 으로 동작합니다.
 
 ```
 # Header Level 1
