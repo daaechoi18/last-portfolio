@@ -1,114 +1,57 @@
-# `MarkDown Language`   
-
-
-마크다운(이하 md) 언어는 마크업언어의 반대 개념이다.
-
----
-
-## Header Text (타이틀)
-
-타이틀을 입력할 때는 `#`을 사용합니다. `#`의 개수에 따라 `html`의 `hn` 으로 동작합니다.
-
-```
-# Header Level 1
-## Header Level 2
-### Header Level 3
-#### Header Level 4
-##### Header Level 5
-```
-
-# Header Level 1
-## Header Level 2
-### Header Level 3
-#### Header Level 4
-##### Header Level 5
+# 포트폴리오 
+## 개발환경
 <br>
 
->`이때 '#'뒤쪽은 반드시 1칸 공백을 유지해야 한다.`
-
-
-
+- OS
+  - Windows
+  - Mac
+- Tools
+  - PhotoShop 
+  - Illustrator 
+  - Visual Studio Code 
+  - Atom
+<br>
 ---
-
-## Text Emphasis (텍스트 강조)
 <br>
 
-*이탤릭체*는 단어의 앞뒤로 `*`를 붙여 사용한다.<br>
-**볼드체**는 단어의 앞뒤로 `**`를 붙여 사용한다.<br>
-~~취소선~~은 단어의 앞뒤로 `~~`를 붙여 사용한다.<br>
-<u>밑줄</u>은 `<u></u>`를 사용한다.<br><br>
+## 프로젝트
+<br>
 
->`이때  공백은 사용하지 않는다.`
-
----
-
-## List (목록)
-### Order List (순서있는 목록)
-```
-1. 순서가 있는 목록
-    1. 순서가 있는 목록
-    1. 순서가 있는 목록
-    1. 순서가 있는 목록
-1. 순서가 있는 목록
-    1. 순서가 있는 목록
-    1. 순서가 있는 목록
-    1. 순서가 있는 목록
-1. 순서가 있는 목록
-    1. 순서가 있는 목록
-    1. 순서가 있는 목록
-          1. 순서가 있는 목록
-          1. 순서가 있는 목록
-```
-### Unorder List (순서없는 목록)
-```
-- 순서가 있는 목록
-    - 순서가 있는 목록
-    - 순서가 있는 목록
-    - 순서가 있는 목록
-- 순서가 있는 목록
-    - 순서가 있는 목록
-    - 순서가 있는 목록
-    - 순서가 있는 목록
-- 순서가 있는 목록
-    - 순서가 있는 목록
-    - 순서가 있는 목록
-          - 순서가 있는 목록
-          - 순서가 있는 목록
-```
+제가 진행한 `프로젝트`를 소개합니다.   
+<div align="center">
+  <img src="./img/port_hansol.png" width="20%">
+  <img src="./img/port_indigo.png" width="20%">
+  <img src="./img/port_mozilla.png" width="20%">
+  <img src="./img/port_giljo.png" width="20%">
+</div>
+<br>
 
 ---
+<br>
 
-## Hyper Link (하이퍼링크)
-```
-[google](https://www.google.com)   
-[naver](https://www.naver.com)   
-[daum](https://www.daum.net)   
-[Header Text (타이틀)](#Header-Text-(타이틀))   
-[Text Emphasis (텍스트 강조)](#Text-Emphasis-(텍스트-강조))   
-[List (목록)](#List-(목록))
-```
-[google](https://www.google.com)   
-[naver](https://www.naver.com)   
-[daum](https://www.daum.net)   
-[Header Text (타이틀)](#Header-Text-(타이틀))   
-[Text Emphasis (텍스트 강조)](#Text-Emphasis-(텍스트-강조))   
-[List (목록)](#List-(목록))
+## 도구들
+<br>
 
->`하이퍼링크`는 외부파일로 링크 할 수 있고, 문서 내에서의 링크도 가능하다.
-이때 문서 내부에서의 링크는 `#타이틀`로 링크 할 수 있으며, `타이틀`명의 공백은 `-`으로 구분한다.
+저는 이러한 `tools`를 사용합니다.    
+<div style="text-align:center;">
 
----
+  ![포토샵](./img/skills_ps.png) 
+  ![일러스트레이터](./img/skills_ai.png)
+  ![어피니티 포토](./img/skills_ap.png)
+  ![어피니티 디자이너](./img/skills_ad.png)    
+  ![HTML5](./img/skills_html.png)
+  ![CSS3](./img/skills_css.png)
+  ![javaScript](./img/skills_js.png)
+  ![jQueryRL](./img/skills_jquery.png)
 
-## Insert Image (이미지 삽입)
-```
-![HTML](./img/skills_html.png)   
-![CSS](./img/skills_css.png)   
-![javaScript](./img/skills_js.png)   
-![PhotoShop](./img/skills_ps.png)   
-```
-![HTML](./img/skills_html.png)
-![CSS](./img/skills_css.png)
-![javaScript](./img/skills_js.png)
-![PhotoShop](./img/skills_ps.png) 
+</div>
+
+<br>
 
 ---
+<br>
+
+## 연락처
+<br>
+
+daaechoi18@gmail.com
