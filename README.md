@@ -1,7 +1,4 @@
 # 포트폴리오 
-
----
-
 ## 개발환경
 <br>
 
@@ -13,11 +10,8 @@
   - Illustrator 
   - Visual Studio Code 
   - Atom
-<br>
 
 ---
-
-<br>
 
 ## 프로젝트
 <br>
@@ -29,10 +23,8 @@
   <img src="./img/port_mozilla.png" width="20%">
   <img src="./img/port_giljo.png" width="20%">
 </div>
-<br>
 
 ---
-<br>
 
 ## 도구들
 <br>
@@ -51,10 +43,7 @@
 
 </div>
 
-<br>
-
 ---
-<br>
 
 ## 연락처
 <br>
